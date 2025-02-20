@@ -21,7 +21,7 @@ To set up the chatbot on your local machine, you need to install the necessary d
 
 Clone the Repository
 
-git clone https://github.com/your-username/Early-Warning-System-Chatbot.git
+git clone[ https://github.com/your-username/Early-Warning-System-Chatbot.git](https://huggingface.co/spaces/NSamson1/Early-Warning-Airquality)
 cd Early-Warning-System-Chatbot
 Install Dependencies
 This project uses several Python libraries for machine learning, data processing, and chatbot integration. To install them, run:
